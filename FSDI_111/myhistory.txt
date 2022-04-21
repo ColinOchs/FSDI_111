@@ -1,0 +1,35 @@
+    1  whoami
+    2  uname
+    3  #this is a comment
+    4  $HOME
+    5  cd
+    6  cd ~
+    7  mkdir Code
+    8  mkdir -P Code/SDGKU
+    9  mkdir -p Code/SDGKU
+   10  dir
+   11  cd code
+   12  cd Code
+   13  dir
+   14  ~/Code/SDGKU
+   15  dir
+   16  cd SDGKU
+   17  pwd
+   18  ls -l
+   19  ls -a
+   20  mkdir FSDI_111
+   21  CD FSDI_111
+   22  cd FSDI_111
+   23  python3 -V
+   24  cls
+   25  clear
+   26  dir
+   27  sudo apt update
+   28  sudo apt upgrade
+   29  echo $0
+   30  sudo apt install zsh
+   31  sudo apt install python3-pip
+   32  python3 -m venv venv
+   33  sudo apt install python3-venv
+   34  source venv/bin/activate
+   35  history > myhistory.txt
